@@ -23,7 +23,7 @@ export class News extends Component {
         this.handleSubmit = this.handleSubmit.bind(this);
         document.title = `${this.capitalizeFirstLetter(this.props.category)}-News World`
     }
-    static defaultprops = {
+    static defaultProps = {
         country: 'in',
         pagesize: 20,
         category: 'science'
