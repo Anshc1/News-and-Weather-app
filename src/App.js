@@ -8,7 +8,6 @@ import {
   Switch,
   Route,
 } from "react-router-dom";
-import { __RouterContext } from 'react-router';
 import disableScroll from 'disable-scroll';
 
 export default class App extends Component {

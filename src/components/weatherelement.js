@@ -12,7 +12,6 @@ export class Weatherelement extends Component {
     }
     render() {
         let { location, description, temp ,humidity,tempmx, tempmin ,feel,icon} = this.props;
-        let c = icon - '0';  
         let imgurl = `http://openweathermap.org/img/wn/${this.props.icon}@2x.png`
         console.log(imgurl); 
         return (

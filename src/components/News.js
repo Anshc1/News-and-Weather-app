@@ -84,7 +84,7 @@ export class News extends Component {
                     <InfiniteScroll
                         dataLength={this.state.articles.length}
                         next={this.fetchMoreData}
-                        hasMore={this.state.articles.length != this.state.totalResults}
+                        hasMore={this.state.articles.length !== this.state.totalResults}
                         loader={<h4 className="text-center">
                             <div className="spinner-border " role="status">
                                 <span className="visually-hidden">Loading...</span>
