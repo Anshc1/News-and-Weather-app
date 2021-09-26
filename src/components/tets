@@ -1,0 +1,10 @@
+ async componentDidMount() {
+        let url2 = `api.openweathermap.org/data/2.5/weather?q=NewYork&appid=09d0d89e268de3298d9ac220a74f727b`;
+        let data2 = await fetch(url2);
+        let parsedinfo2 = await data2.json();
+        this.setState({});
+        this.setState({ weather: parsedinfo2.weather })
+           <div className="temp">{tempmin}</div>
+                    <div className="temp">{tempmax}</div>
+                    <div className="temp">{humidity}</div>
+    }

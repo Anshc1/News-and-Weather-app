@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Florida COVID-19 update: 13,774 cases added. Percentage of hospital, ICU patients sliding - Miami Herald",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9uZXdzL2Nvcm9uYXZpcnVzL2FydGljbGUyNTQwNzc4OTMuaHRtbNIBQmh0dHBzOi8vYW1wLm1pYW1paGVyYWxkLmNvbS9uZXdzL2Nvcm9uYXZpcnVzL2FydGljbGUyNTQwNzc4OTMuaHRtbA?oc=5",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2021/06/Halloween-Kills-1.jpg?w=1024",
+            "publishedAt": "2021-09-08T20:17:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Stephanie Bunbury",
+            "title": "Venice Review: Jamie Lee Curtis In ‘Halloween Kills’ - Deadline",
+            "description": "Here it is: the second installment in the current reboot of the franchise they couldn’t kill, Halloween. Jamie Lee Curtis’s Laurie Strode is still with us as the slasher genre’s essential “final girl,” despite now being and playing a senior citizen. Michael M…",
+            "url": "https://deadline.com/2021/09/halloween-kills-review-venice-film-festival-jamie-lee-curtis-1234829009/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2021/06/Halloween-Kills-1.jpg?w=1024",
+            "publishedAt": "2021-09-08T20:00:00Z",
+            "content": "Here it is: the second installment in the current reboot of the franchise they couldn’t kill, Halloween. Jamie Lee Curtis’s Laurie Strode is still with us as the slasher genre’s essential “final girl… [+3986 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean O'Kane",
+            "title": "Whoop’s new fitness tracker is better thanks to a battery breakthrough - The Verge",
+            "description": "Silicon Valley startup Sila Nanotechnologies has spent the last decade developing a new anode design that can dramatically increase a battery’s energy density. It has potentially huge implications, and now it’s finally launched in a product — the new Whoop fi…",
+            "url": "https://www.theverge.com/2021/9/8/22662979/whoop-fitness-tracker-sila-silicon-anode-battery-electric-cars",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/oOcexM1udXe09KPNzqDLVNxz6sA=/0x46:2400x1303/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22835074/WHOOP_SILA_2.png",
+            "publishedAt": "2021-09-08T19:49:02Z",
+            "content": "Sila Nanotechnologies silicon anode has finally arrived\r\nFitness company Whoop has a new tracker that squishes five LEDs, four photodiodes, a pulse oximeter, skin temperature sensor, and more into a … [+5626 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kevin Liptak, CNN",
+            "title": "Mandates and testing among Biden's plans to combat Delta surge - CNN",
+            "description": "President Joe Biden, entering autumn with coronavirus still wreaking havoc on the nation's health and economy, will push for new vaccine mandates and testing programs as part of a revamped approach to ending the pandemic.",
+            "url": "https://www.cnn.com/2021/09/08/politics/biden-covid-speech-plans/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210823141949-02-biden-covid-0923-super-tease.jpg",
+            "publishedAt": "2021-09-08T19:45:00Z",
+            "content": "(CNN)President Joe Biden, entering autumn with coronavirus still wreaking havoc on the nation's health and economy, will push for new vaccine mandates and testing programs as part of a revamped appro… [+5274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Isaac Schultz",
+            "title": "Giant, Half-Billion-Year-Old Predator Fossil Pulled Out of Canadian Rockies - Gizmodo",
+            "description": "For its time, Titanokorys gainesi was an absolute unit.",
+            "url": "https://gizmodo.com/giant-half-billion-year-old-predator-fossil-pulled-out-1847637080",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/02afd8ce44695461d612a7178558928b.jpg",
+            "publishedAt": "2021-09-08T18:50:00Z",
+            "content": "During the Cambrian Explosion over 500 million years ago, the oceans teemed with weird creatures that were busy redefining what life looked like on Earth. One of those creatures was just chiseled out… [+3697 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Steelers Depot"
+            },
+            "author": "Dave Bryan",
+            "title": "Steelers OLB TJ Watt Was A Full Practice Participant On Wednesday - Steelers Depot",
+            "description": "The Pittsburgh Steelers have now completed their Wednesday practice and according to Brooke Pryor of ESPN, outside linebacker T.J. Watt was indeed a full participant in the session. Steelers inside linebacker Joe Schobert also reportedly said after practice t…",
+            "url": "https://steelersdepot.com/2021/09/steelers-olb-t-j-watt-was-a-full-practice-participant-on-wednesday/",
+            "urlToImage": "https://steelersdepot.com/wp-content/uploads/2021/08/SteelersTrainingCamp2021_698.jpg",
+            "publishedAt": "2021-09-08T18:33:45Z",
+            "content": "The Pittsburgh Steelers have now completed their Wednesday practice and according to Brooke Pryor of ESPN, outside linebacker T.J. Watt was indeed a full participant in the session.\r\nSteelers inside … [+1667 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Jordan Mendoza",
+            "title": "Officials confirm identities of 2 more 9/11 victims, nearly 20 years after terrorist attack - USA TODAY",
+            "description": "The New York City medical examiner identified the 1,646th and 1,647th victims of the Sept. 11 terrorists attack days before its 20th anniversary.",
+            "url": "https://www.usatoday.com/story/news/nation/2021/09/08/9-11-victims-identities-confirmed-new-york-city/5771658001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/09/08/USAT/840e3dc6-45ee-4df6-b3a3-2e07d11e5c44-GTY_1339083882.jpg?crop=5127,2884,x0,y260&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2021-09-08T18:31:06Z",
+            "content": "Witness the moments when America was struck with the most horrific attacks in the nation's history one Tuesday morning.\r\nUSA TODAY\r\nDays away from the 20th anniversary of 9/11, the New York City chie… [+2748 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Carlotta Gall",
+            "title": "Afghanistan Aid Workers Tread a Tricky Path Under Taliban Rule - The New York Times",
+            "description": "Afghanistan desperately needs aid. Nonprofits desperately want to provide it. But the aid groups are being tested as never before by the uncertainty that has followed the Taliban takeover.",
+            "url": "https://www.nytimes.com/2021/09/08/world/asia/afghanistan-aid-workers-taliban.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/09/07/world/07afghan-aid-organizations1/07afghan-aid-organizations1-facebookJumbo.jpg",
+            "publishedAt": "2021-09-08T18:29:03Z",
+            "content": "For the past 20 years, military and diplomatic forces from all over the world took over central Kabul, filling a green zone beside the presidential palace with embassies, military bases and residence… [+1197 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "ANDREW ATTERBURY",
+            "title": "Florida judge blocks DeSantis attempt to halt mask mandate ruling - POLITICO",
+            "description": "The Florida judge’s decision means the Department of Education is prohibited from enforcing sanctions on defiant school boards.",
+            "url": "https://www.politico.com/states/florida/story/2021/09/08/florida-judge-blocks-desantis-attempt-to-halt-mask-mandate-ruling-1390791",
+            "urlToImage": "https://static.politico.com/38/4a/d8b3352d41f4ac9bf7d731720f80/210908-florida-mask-ap-773.jpg",
+            "publishedAt": "2021-09-08T18:23:26Z",
+            "content": "Carol Basilio, right, greets her daughter Giovanna, 4, left, outside of iPrep Academy on the first day of school on Aug. 23 in Miami. Public schools in Miami-Dade County have a strict mask mandate to… [+4769 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Sapna Maheshwari",
+            "title": "Macy's to Require Masks and Vaccinations for Thanksgiving Day Parade - The New York Times",
+            "description": "The holiday show, in its 95th year, will travel a longer route than it did last year and have more participants, including visiting marching bands.",
+            "url": "https://www.nytimes.com/2021/09/08/business/macys-thanksgiving-day-parade.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/09/08/arts/08economy-briefing-macys-1/merlin_165150456_d88c97d4-8e7f-41bd-800c-f2f592b39223-facebookJumbo.jpg",
+            "publishedAt": "2021-09-08T18:14:45Z",
+            "content": "Participants in the Macys Thanksgiving Day Parade must be masked and vaccinated, with a few exceptions, the company said on Wednesday, as the annual tradition plans a return to a version of its old s… [+858 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Andrew Kaczynski and Em Steck, CNN",
+            "title": "Biden administration tells ex-Trump officials to resign from military academy advisory boards or be dismissed - CNN",
+            "description": "The Biden administration has told 11 officials appointed to military service academy advisory boards by former President Donald Trump to resign or be dismissed, a source familiar with the situation tells CNN's KFile.",
+            "url": "https://www.cnn.com/2021/09/08/politics/trump-appointees-biden-boards/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210704190844-white-house-exterior-0703-super-tease.jpg",
+            "publishedAt": "2021-09-08T18:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Cryptocurrency Sheriff Issues Warning That He'll Tame the Crypto Market - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=642103de-10e6-11ec-915c-59466d624461&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wOS0wOC9jb2luYmFzZS10aHJlYXQtc2hvd3MtdGhlcmUtcy1hLW5ldy1zaGVyaWZmLWluLXRvd24tb24tY3J5cHRv",
+            "urlToImage": null,
+            "publishedAt": "2021-09-08T17:50:50Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": null,
+            "title": "Android 12 Beta 5: ‘Device search’ now live in Pixel Launcher app drawer - 9to5Google",
+            "description": "After being spotted in progress previously, the universal device search is now live in Android 12 Beta 5 within the Pixel Launcher app drawer.",
+            "url": "https://9to5google.com/2021/09/08/android-12-beta-5-device-search-now-live-in-pixel-launcher-app-drawer/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/09/Android-12-Beta-5-1.jpg?resize=1200%2C628&ssl=1",
+            "publishedAt": "2021-09-08T17:44:00Z",
+            "content": "After being spotted in progress with previous releases, the universal device search is now live in Android 12 Beta 5 within the Pixel Launcher app drawer.\r\nThe feature has been a notable omission fro… [+1604 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Will Feuer",
+            "title": "Prosecutors tell jury Elizabeth Holmes lied and cheated her way to billions - New York Post ",
+            "description": "Prosecutors said their opening statement will take around 45 minutes while Holmes’ defense team said their statement will take about two hours.",
+            "url": "https://nypost.com/2021/09/08/elizabeth-holmes-fraud-trial-begins-with-opening-arguments/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/Holmes_.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-09-08T17:36:00Z",
+            "content": "Prosecutors at Elizabeth Holmes’ fraud trial hammered the disgraced founder of blood-testing startup Theranos in opening statements, telling the jury that she lied and cheated her way to fortune and … [+7606 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Greg Joyce",
+            "title": "Michael Jordan, Patrick Ewing attend Derek Jeter's Hall of Fame ceremony - New York Post ",
+            "description": "The stars came out Wednesday as Yankees legend Derek Jeter was finally inducted into Cooperstown.",
+            "url": "https://nypost.com/2021/09/08/michael-jordan-patrick-ewing-attend-derek-jeters-hall-of-fame-ceremony/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/jeter.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-09-08T17:35:00Z",
+            "content": "COOPERSTOWN, N.Y.  The stars came out for Derek Jeters Hall of Fame induction.\r\nMichael Jordan and Patrick Ewing were among the non-baseball dignitaries who where in attendance Wednesday at the Clark… [+1609 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Mychael Schnell",
+            "title": "Ocasio-Cortez slams Texas governor's 'deep ignorance' on abortion | TheHill - The Hill",
+            "description": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) slammed Texas Gov. Greg Ab...",
+            "url": "https://thehill.com/homenews/house/571303-ocasio-cortez-slams-texas-governors-deep-ignorance-on-abortion",
+            "urlToImage": "https://thehill.com/sites/default/files/ocasiocortezalexandria_071921gn4_lead.jpg",
+            "publishedAt": "2021-09-08T17:02:20Z",
+            "content": "Rep. Alexandria Ocasio-CortezAlexandria Ocasio-CortezBiden pushes agenda while touring Ida disaster areasThe Memo: Attacks on democracy seep down to school boards, election officesCourt's ruling on T… [+3374 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aimee Aimee",
+            "title": "Job openings reach historic high of almost 11 million. Why are 9 million still jobless? - CBS News",
+            "description": "The disconnect between job openings and the ranks of the unemployed is something of a \"big mystery,\" one economist says.",
+            "url": "https://www.cbsnews.com/news/job-openings-jolts-report-11-million/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/09/03/aee73bc4-649f-464d-814f-3f21ff5d0168/thumbnail/1200x630/4fcabacfac0e7c7290147e78e0f6e783/hiring-gettyimages-1337260723.jpg",
+            "publishedAt": "2021-09-08T16:52:46Z",
+            "content": "American businesses are hiring — and at historic rates, with almost 11 million job openings in July, according to the latest government data. Yet more than 9 million people were collecting enhanced u… [+7722 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Emily Crane",
+            "title": "Robert E. Lee statue removed from pedestal in Richmond, Virginia - New York Post ",
+            "description": "A statue of Confederate Gen. Robert E. Lee that is one of America’s largest monuments to the Confederacy was hosted off its pedestal and removed Wednesday to cheers in Richmond, Virginia.",
+            "url": "https://nypost.com/2021/09/08/confederate-general-robert-e-lee-statue-removed-in-virginia/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/lee-statue.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-09-08T16:21:00Z",
+            "content": "A towering statue of Confederate Gen. Robert E. Lee that is one of America’s largest monuments to the Confederacy was hoisted off its pedestal and removed Wednesday to cheers in Richmond, Virginia — … [+2425 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BuzzFeed News"
+            },
+            "author": "Leyla Mohammed",
+            "title": "Britney Spears’ Attorney Said Jamie Spears Suddenly Filing To End Her Conservatorship Is An Attempt To Avoid Answering Questions Under Oath And Escape “Accountability And Justice” - BuzzFeed News",
+            "description": "After refusing to end Britney Spears’ conservatorship for the past 13 years, Jamie Spears appears to have now made a major U-turn.",
+            "url": "https://www.buzzfeednews.com/article/leylamohammed/britney-spears-attorney-jamie-spears-avoid-accountability",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2021-09/8/15/enhanced/545d31e8129a/original-451-1631116434-2.jpg?crop=1113:583;30,0",
+            "publishedAt": "2021-09-08T16:09:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Alan Rappeport, Jonathan Weisman",
+            "title": "U.S. Debt Default Could Come in October, Yellen Warns - The New York Times",
+            "description": "The Treasury secretary urged Congress to take action on the debt limit before “extraordinary measures” being used to finance the government run out.",
+            "url": "https://www.nytimes.com/2021/09/08/business/economy/united-states-debt-default.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/09/08/business/08econ-brf-debt/08econ-brf-debt-facebookJumbo.jpg",
+            "publishedAt": "2021-09-08T16:04:48Z",
+            "content": "The distribution of pandemic relief payments this year and uncertainty over incoming tax payments this month have made it more challenging than usual to predict when funds will run out. Ms. Yellen sa… [+1309 chars]"
+        }
+    ]
+}
