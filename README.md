@@ -1,3 +1,9 @@
+This is a news and weather app. 
+I have used node, express, and react frameworks in this project along with javascript, HTML, and CSS.   
+I have also used some of the bootstrap properties. 
+I have used two APIs to retrieve the required information.
+For the deployment, I have used netlify for free hosting my webpage.
+The webpage is fully responsive and currently under development.  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
