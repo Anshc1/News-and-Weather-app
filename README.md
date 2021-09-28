@@ -4,6 +4,7 @@ I have also used some of the bootstrap properties.
 I have used two APIs to retrieve the required information.
 For the deployment, I have used netlify for free hosting my webpage.
 The webpage is fully responsive and currently under development.  
+Project link - https://trusting-snyder-df9d17.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
