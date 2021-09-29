@@ -13,12 +13,12 @@ export class Weatherelement extends Component {
     render() {
         let { location, description, temp ,humidity,tempmx, tempmin ,feel,icon} = this.props;
         let imgurl = `http://openweathermap.org/img/wn/${this.props.icon}@2x.png`
-        console.log(imgurl); 
+        let url = 'invalid.png'; 
         return (
             <div>
                 <div className="locationbox">
                     <div className="location">{this.capitalizeFirstLetter(location)}</div>
-                    <img src={imgurl} className="card-img-top locationbox img"  alt="" />
+                    <img src={icon?imgurl:url} className="card-img-top locationbox img"  alt="" />
                 </div>
                 <div className="weatherbox">
                     <div className="weatherbox">Weather-{this.capitalizeFirstLetter( description)}</div>

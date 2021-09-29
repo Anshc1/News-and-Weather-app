@@ -28,6 +28,7 @@ export class News extends Component {
         pagesize: 10,
         category: 'science'
     }
+
     static propTypes = {
         country: propTypes.string,
         pagesize: propTypes.number,
@@ -62,7 +63,28 @@ export class News extends Component {
         let data2 = await fetch(url2);
         let parsedinfo2 = await data2.json();
         this.setState({});
-        this.setState({ weather: parsedinfo2.weather, main: parsedinfo2.main })
+        if (parsedinfo2.main == null) {
+            this.setState({
+                weather: [
+                    {
+                        "id": 0,
+                        "main": "",
+                        "description": "Invalid Location",
+                        "icon": ""
+                    }
+                ], main: {
+                    "temp": 273.5,
+                    "feels_like": 0,
+                    "temp_min": 273.5,
+                    "temp_max": 273.5,
+                    "pressure": 0,
+                    "humidity": 0
+                }
+            });
+        } else {
+            this.setState({ weather: parsedinfo2.weather, main: parsedinfo2.main })
+        }
+
     }
     fetchMoreData = async () => {
         this.setState({ page: this.state.page + 1 });
@@ -105,9 +127,9 @@ export class News extends Component {
                 </div>
                 <div className="bottomPane">
                     <h2 className="weatherhead">Search Your Location</h2>
-                    <div className="box summer ">
+                    <div className="box summer">
                         <form onSubmit={this.handleSubmit} className="d-flex searchbox">
-                            <input className="form-control me-2" type="search" placeholder="Search" value={this.state.value} onChange={this.handleChange} />
+                            <input className="form-control me-2" type="search" placeholder="Search" value={this.state.value} onChange={this.handleChange} maxlength="13" />
                             <input className="btn btn-outline-success" type="submit" value="Search" />
                         </form>
                         {this.state.weather.map((element) => {
